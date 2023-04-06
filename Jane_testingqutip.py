@@ -17,5 +17,4 @@ from IPython.display import Image
 #print (q.dims)
 
 print (sigmax())
-
-
+# i am wiritng this to test if it updates
