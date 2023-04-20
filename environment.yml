@@ -1,0 +1,12 @@
+name: qt3qutipsandbox
+
+dependencies:
+  - python<3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - plotly
+  - pandas
+  - pip:
+    - qutip
